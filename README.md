@@ -1,2 +1,1 @@
-# iMDB-Rating
-ABC
+# My First Project on GitHub
